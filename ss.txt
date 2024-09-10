@@ -1,3 +1,4 @@
 git init 
 and check status and git add.  commetet
 add repository name 
+ddjjdj dmdmmd
